@@ -1,2 +1,2 @@
 # RCO2-Patched
-Legacy github name
+Legacy github repository for legacy versions of RCO2-Patch-Kit
